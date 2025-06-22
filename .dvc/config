@@ -1,0 +1,4 @@
+[core]
+    remote = tellegram_data
+['remote "tellegram_data"']
+    url = ../..
