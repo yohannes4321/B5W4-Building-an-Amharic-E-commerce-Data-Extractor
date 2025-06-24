@@ -1,3 +1,4 @@
 .env
 /photos
 telegram_data.csv
+conll_labeled_data.txt
